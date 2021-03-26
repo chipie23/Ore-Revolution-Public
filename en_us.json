@@ -1,0 +1,30 @@
+{
+//Items
+"block.orerevolution.bone_ore": "Bone Ore",
+"block.orerevolution.blaze_ore": "Blaze Ore",
+"block.orerevolution.experience_ore": "Experience Ore",
+"block.orerevolution.ender_pearl_ore": "Ender Pearl Ore",
+"block.orerevolution.ender_eye_ore": "Ender Eye Ore",
+"block.orerevolution.firework_ore": "Firework Ore",
+"block.orerevolution.gunpowder_ore": "Gunpowder Ore",
+"block.orerevolution.heart_sea_ore": "Heart Sea Ore",
+"block.orerevolution.nautilus_shell_ore": "Nautilus Shell Ore",
+"block.orerevolution.nether_star_ore": "Nether Star Ore",
+"block.orerevolution.phantom_membrane_ore": "Phantom Membrane Ore",
+"block.orerevolution.string_ore": "String Ore",
+"block.orerevolution.scute_ore": "Scute Ore",
+"block.orerevolution.apple_ore": "Apple Ore",
+"block.orerevolution.cake_ore": "Cake Ore",
+"block.orerevolution.carrot_ore": "Carrot Ore",
+"block.orerevolution.cookie_ore": "Cookie Ore",
+"block.orerevolution.enchanted_golden_apple_ore": "Enchanted Golden Apple Ore",
+"block.orerevolution.melon_slice_ore": "Melon Slice Ore",
+"block.orerevolution.potato_ore": "Potato Ore",
+"block.orerevolution.raw_beef_ore": "Raw Beef Ore",
+"block.orerevolution.raw_porkchop_ore": "Raw Porkchop Ore",
+"block.orerevolution.raw_salmon_ore": "Raw Salmon Ore", 
+
+
+//Tabs
+"itemGroup.Group": "Ore Revolution"
+}

@@ -1,0 +1,30 @@
+{
+//Items
+"block.orerevolution.bone_ore": "Minerale d'osso",
+"block.orerevolution.blaze_ore": "Minerale di polvere di blaze",
+"block.orerevolution.experience_ore": "Minerale d'esperienza",
+"block.orerevolution.ender_pearl_ore": "Minerale di perla di ender ",
+"block.orerevolution.ender_eye_ore": "Minerale di occhio di ender",
+"block.orerevolution.firework_ore": "Minerale di fuoco d'artificio",
+"block.orerevolution.gunpowder_ore": "Minerale di polvere da sparo",
+"block.orerevolution.heart_sea_ore": "Minerale cuore del mare",
+"block.orerevolution.nautilus_shell_ore": "Minerale conchiglia di nautilus",
+"block.orerevolution.nether_star_ore": "Minerale di stella del nether",
+"block.orerevolution.phantom_membrane_ore": "Minerale di membrana di phantom",
+"block.orerevolution.string_ore": "Minerale di cordicella",
+"block.orerevolution.scute_ore": "Minerale di scuto",
+"block.orerevolution.apple_ore": "Minerale di mela",
+"block.orerevolution.cake_ore": "Minerale di torta",
+"block.orerevolution.carrot_ore": "Minerale di carota",
+"block.orerevolution.cookie_ore": "Minerale di Biscotto",
+"block.orerevolution.enchanted_golden_apple_ore": "Minerale di mela d'oro incantata",
+"block.orerevolution.melon_slice_ore": "Minerale di fette d'anguria",
+"block.orerevolution.potato_ore": "Minerale di patata",
+"block.orerevolution.raw_beef_ore": "Minerale di manzo crudo",
+"block.orerevolution.raw_porkchop_ore": "Minerale di costoletta di maiale",
+"block.orerevolution.raw_salmon_ore": "Minerale di salmone crudo", 
+
+
+//Tabs
+"itemGroup.Group": "Ore Revolution"
+}
