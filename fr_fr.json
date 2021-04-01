@@ -1,0 +1,30 @@
+{
+//Items
+"block.orerevolution.bone_ore": "Minerai d'Os",
+"block.orerevolution.blaze_ore": "Minerai de blaze",
+"block.orerevolution.experience_ore": "Minerai d'Experience",
+"block.orerevolution.ender_pearl_ore": "Minerai d'Ender Pearl",
+"block.orerevolution.ender_eye_ore": "Minerai d'Oeil D'ender",
+"block.orerevolution.firework_ore": "Minerai de Feu d'Artifice",
+"block.orerevolution.gunpowder_ore": "Minerai de Poudre à Canon",
+"block.orerevolution.heart_sea_ore": "Minerai de Coeur de la Mer",
+"block.orerevolution.nautilus_shell_ore": "Minerai de Coquille de Nautilus",
+"block.orerevolution.nether_star_ore": "Minerai d'Etoile du Nether",
+"block.orerevolution.phantom_membrane_ore": "Minerai de membrane de fantome",
+"block.orerevolution.string_ore": "Minerai de Fil",
+"block.orerevolution.scute_ore": "Minerai d'Ecaille",
+"block.orerevolution.apple_ore": "Minerai de Pomme",
+"block.orerevolution.cake_ore": "Minerai de Gateau",
+"block.orerevolution.carrot_ore": "Minerai de Carotte",
+"block.orerevolution.cookie_ore": "Minerai de Cookie",
+"block.orerevolution.enchanted_golden_apple_ore": "Minerai de Pomme Doree Enchantee",
+"block.orerevolution.melon_slice_ore": "Minerai de Tranche de melon",
+"block.orerevolution.potato_ore": "Minerai de Pomme de Terre",
+"block.orerevolution.raw_beef_ore": "Minerai de Boeuf Cru",
+"block.orerevolution.raw_porkchop_ore": "Minerai de Porc Cru",
+"block.orerevolution.raw_salmon_ore": "Minerai de Saumon Cru", 
+
+
+//Tabs
+"itemGroup.Group": "Ore Revolution"
+}
